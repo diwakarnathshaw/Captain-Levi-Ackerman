@@ -45,3 +45,16 @@ body {
   margin: auto 2px;
   padding: 0 1px;
 }
+
+.user-name {
+  margin-top: 1.7rem;
+  text-align: center;
+}
+
+.user-name h2 {
+  font-size: 1.48em;
+}
+
+.user-name p {
+  font-size: 0.7em;
+}
