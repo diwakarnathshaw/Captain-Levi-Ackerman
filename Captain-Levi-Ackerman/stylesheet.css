@@ -19,8 +19,13 @@ img {
   height: 100%;
 }
 
+/* Utility Class */
 .not-allowed {
   color: #777;
+}
+
+.border-radius {
+  border-radius: 50%;
 }
 
 .galaxy-layout {
@@ -75,10 +80,6 @@ img {
   height: 100px;
 }
 
-.user-img img {
-  border-radius: 50%;
-}
-
 .main-menu {
   background: #0009;
   border-radius: 15px;
@@ -102,7 +103,7 @@ img {
   justify-content: center;
   text-align: center;
   font-size: 0.6em;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   padding: 0.7rem;
   margin: 1rem 0;
 }
