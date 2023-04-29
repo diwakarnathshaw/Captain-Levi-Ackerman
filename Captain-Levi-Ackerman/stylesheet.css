@@ -28,6 +28,11 @@ img {
   border-radius: 50%;
 }
 
+.margin-top-7 {
+  margin-top: 1.7rem;
+}
+
+/* Layout Design */
 .galaxy-layout {
   width: 320px;
   height: 600px;
@@ -62,7 +67,6 @@ img {
 }
 
 .user-name {
-  margin-top: 1.7rem;
   text-align: center;
 }
 
@@ -75,7 +79,6 @@ img {
 }
 
 .user-img {
-  margin-top: 1.7rem;
   width: 100px;
   height: 100px;
 }
@@ -84,7 +87,6 @@ img {
   background: #0009;
   border-radius: 15px;
   padding: 2rem;
-  margin-top: 1.7rem;
 }
 
 .main-menu-container {
