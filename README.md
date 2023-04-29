@@ -21,7 +21,7 @@ Created a stunning mobile user interface using only HTML and CSS. In this projec
 
 
 # 🤝 Contributing
-While I do not accept pull requests for this project, I welcome any feedback or suggestions you may have! Feel free to open an issue on the repository and I'll get back to you as soon as I can.
+While I do not accept pull requests for this project, I welcome any `feedback` or `suggestions` you may have! Feel free to open an issue on the repository and I'll get back to you as soon as I can.
 
 # 🙏 Acknowledgements
 I'd like to thank `Samsung` for designing such a beautiful user interface that inspired this project. I'd also like to thank `OpenAI` for helping me to write this `README.md` file.
