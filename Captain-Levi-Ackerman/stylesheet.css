@@ -121,5 +121,6 @@ img {
 }
 
 .hang-up i:hover {
-  background: #FF7373;
+  background: #FF4747;
+  cursor: pointer;
 }
