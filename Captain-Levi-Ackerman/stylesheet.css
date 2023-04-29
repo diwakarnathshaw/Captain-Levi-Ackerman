@@ -19,6 +19,10 @@ img {
   height: 100%;
 }
 
+.not-allowed {
+  color: #777;
+}
+
 .galaxy-layout {
   width: 320px;
   height: 600px;
