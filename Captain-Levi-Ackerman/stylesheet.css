@@ -4,3 +4,19 @@
   box-sizing: border-box;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+body {
+  background: #001829;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.galaxy-layout {
+  width: 320px;
+  height: 600px;
+  background-image: linear-gradient(240deg, #234139 0%, #32656b 50%, #264355 75%);
+  border-radius: 15px;
+}
