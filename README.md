@@ -15,7 +15,7 @@ Created a stunning mobile user interface using only HTML and CSS. In this projec
 ![Calling-Levi-Ackerman-From-AOT](https://user-images.githubusercontent.com/42217482/235324345-0fc83fe9-16ba-4bbe-bd64-ab02c441b59a.png)
 
 `Mobile view`
-![Calling-Levi-Ackerman-From-AOT](https://user-images.githubusercontent.com/42217482/235324447-b82d18c9-da0c-4e66-ad16-6cda85f65e88.png)
+![Mobile-Calling-Levi-Ackerman-From-AOT](https://user-images.githubusercontent.com/42217482/235324535-f2adcf4f-dcfd-476a-96ca-4632aa1a6d79.png)
 
 
 # 🤝 Contributing
