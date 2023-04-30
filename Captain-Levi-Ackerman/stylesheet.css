@@ -82,8 +82,11 @@ img {
   font-size: 1.48em;
 }
 
-.user-name p {
+.user-phone:after {
+  content: "Survey Corps";
   font-size: 0.7em;
+  animation: change-text 3s linear 1s infinite,
+    text-blink 1.5s linear 1s infinite;
 }
 
 .user-img {
@@ -154,5 +157,25 @@ img {
 
   100% {
     content: "...";
+  }
+}
+
+@keyframes change-text {
+  from {
+    content: "Survey Corps";
+  }
+
+  to {
+    content: "+911800111225";
+  }
+}
+
+@keyframes text-blink {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
   }
 }
