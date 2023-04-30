@@ -71,7 +71,7 @@ img {
 
 .loading-animation:after {
   content: "...";
-  animation: dot-animation 1s infinite 0.3s;
+  animation: dot-animation 2.8s infinite 0.3s;
 }
 
 .user-name {
